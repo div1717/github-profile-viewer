@@ -12,7 +12,7 @@ GitHub Profile Viewer is a simple two-screen web application that allows users t
 
 To get started with GitHub Profile Viewer, follow these steps:
 
-1. Clone the repository using git clone https://github.com/your-username/github-profile-viewer.git
+1. Clone the repository using git clone https://github.com/div1717/github-profile-viewer.git
 2. run npm i (node should be installed)
 3. run npm start
 
