@@ -18,7 +18,7 @@ To get started with GitHub Profile Viewer, follow these steps:
 
 # First Page
 
-![alt text](https://github.com/div1717/github-profile-viewer/blob/master/firstpage.png)
+<img width="1440" alt="firstpage" src="https://user-images.githubusercontent.com/105032598/236563812-2090bea4-5454-451c-8e22-6ebfe05ed6ad.png">
 
 # Second Page
 
