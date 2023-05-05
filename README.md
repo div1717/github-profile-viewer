@@ -22,16 +22,16 @@ To get started with GitHub Profile Viewer, follow these steps:
 
 # Second Page
 
-![alt text](https://github.com/div1717/github-profile-viewer/blob/master/profileView.png)
+<img width="1440" alt="profileView" src="https://user-images.githubusercontent.com/105032598/236564540-3994ff83-354d-4e6b-b700-65ece59f8db1.png">
 
 # SearchBar function
 
-![alt text](https://github.com/div1717/github-profile-viewer/blob/master/searchbar.png)
+<img width="1440" alt="searchbar" src="https://user-images.githubusercontent.com/105032598/236564166-5cbdf7c9-062e-4cf8-a314-250fb8bddf3b.png">
 
 # Tab View
 
-![alt text](https://github.com/div1717/github-profile-viewer/blob/master/tabView.png)
+<img width="1440" alt="tabView" src="https://user-images.githubusercontent.com/105032598/236564327-7785bad8-b028-4c7d-96d5-8470e7f96491.png">
 
 # Phone View
 
-![alt text](https://github.com/div1717/github-profile-viewer/blob/master/phoneView.png)
+<img width="1440" alt="phoneView" src="https://user-images.githubusercontent.com/105032598/236564654-7ba731b1-3848-4614-811f-fed93dc4bdab.png">
