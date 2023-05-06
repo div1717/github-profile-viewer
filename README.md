@@ -1,4 +1,6 @@
-Description:
+# GitHub Profile Viewer
+
+# Description:
 GitHub Profile Viewer is a simple two-screen web application that allows users to search for GitHub profiles and view user details on a separate screen. The first screen provides a search bar where users can enter the username of the GitHub profile they want to view. Upon entering a valid username, the second screen displays user details such as the user's name, bio, location, number of followers, and repositories.
 
 # Features:
